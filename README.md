@@ -1,4 +1,3 @@
-Here’s a well-structured **README** for your project. You can **copy and paste it** into your `README.md` file in your GitHub repository.  
 
 ---
 
