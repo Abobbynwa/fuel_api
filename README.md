@@ -60,15 +60,6 @@ Your API will now be running at:
 | **POST** | `/api/route/` | Calculate the best route and fuel stops |
 | **GET** | `/api/docs/` | API documentation (if enabled) |
 
-### **Example Request (cURL)**
-```sh
-curl -X POST "http://127.0.0.1:8000/api/route/" \
-     -H "Content-Type: application/json" \
-     -d '{
-           "start": "New York, NY",
-           "end": "Los Angeles, CA"
-         }'
-```
 
 ---
 
